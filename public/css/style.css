@@ -1,0 +1,42 @@
+body {
+    background-image: url('/img/emilia-home.jpg');
+    background-repeat: no-repeat;
+    background-size: auto 100%; /* Ajusta automáticamente al alto y mantiene el ancho original */
+    background-position: right top; /* Alinea la imagen arriba a la izquierda */
+    height: 100vh; /* Establece la altura al 100% de la ventana del navegador */
+    overflow : hidden;
+}
+
+
+#botones a{
+text-decoration:none;
+font-family: sans-serif;
+}
+
+h1{
+font-family: 'Raleway', sans-serif;font-size: 82px;
+background-color: rgba(255, 255, 255, 0.393);
+position: relative;
+top: 450px;
+}
+
+h3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+position: relative;
+left: 35px;
+top: 250px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.redes-sociales a{
+    float: left;
+    margin: 2px; 
+}
+
+
+
+

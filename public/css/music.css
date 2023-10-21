@@ -8,18 +8,22 @@
     font-family: 'Raleway', sans-serif;font-size: 55px;
 }
 
-.li-album{
+.music-videos ul{
     font-family: 'Open Sans', sans-serif;
 }
 
-ol{
+.music-videos a{
     font-family: 'Open Sans', sans-serif;
 }
 
-.h3-music{
+ol li{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.music-videos h3{
     font-family: 'Raleway', sans-serif
 }
 
-.p-music {
+.music-videos p {
     font-family: 'Open Sans', sans-serif;
 }

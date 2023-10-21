@@ -20,7 +20,7 @@ ul {
         display: inline; 
     }
     
-    .botones-general{
+    .enlaces-general{
         margin-top: 50px;
         font-family: sans-serif;
         text-align: right; /* Alinea el contenido a la derecha horizontalmente */
@@ -29,7 +29,7 @@ ul {
         margin-top: 30px;
     }
     
-    .botones-general li {
+    .enlaces-general li {
         margin-right: 5px; /* Agrega un espacio entre los elementos (opcional) */
         display: inline; /* Muestra los elementos de la lista en línea */
 

@@ -1,4 +1,4 @@
-.foto2{
+.about-img{
     background-image: url('/img/emilia-about.jpg');
     background-repeat: no-repeat;
     background-size:  80%; 
@@ -6,14 +6,14 @@
 
 }
 
-.h3-general{
+.subtitulos-about h3{
     font-family: 'Open Sans', sans-serif;;
     color: #2e787f;
     margin-left: 20px;
     font-size: 20px;
 }
 
-.p-general{
+.subtitulos-about p{
     font-family: 'Open Sans', sans-serif;
     color: #2e787f;
     margin-left: 20px;

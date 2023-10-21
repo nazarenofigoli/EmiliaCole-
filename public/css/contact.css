@@ -1,17 +1,21 @@
-.h1-contact{ 
+.contact-formato h1{ 
     font-family: 'Raleway', sans-serif;font-size: 55px;
 }
 
-.h4-contact{
-    font-family: 'Raleway', sans-serif;
+.contact-formato h4{
+    font-family: 'Raleway', sans-serif; font-size: 20px;
 }
 
 h6{
-    font-family: 'Open Sans', sans-serif; font-size: 14px;
+    font-family: 'Open Sans', sans-serif; font-size: 16px;
     color: #2e787f;
-
 }
 
-.p-contact a{
+.contact-formato a{
     color: #808080;
+}
+
+
+.contact-formato p {
+    font-family: 'Open Sans', sans-serif; font-size: 16px;;
 }

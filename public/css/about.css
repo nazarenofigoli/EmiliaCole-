@@ -1,31 +1,20 @@
-.foto2 {
+.foto2{
     background-image: url('/img/emilia-about.jpg');
     background-repeat: no-repeat;
-    background-size: auto 100%; 
+    background-size:  80%; 
     background-position: right top; 
-    height: 100vh; 
-    overflow : hidden;
+
 }
 
-.botones-general{
-    font-family: sans-serif;
-    background-color: rgba(255, 255, 255, 0.393);
-    text-align: right; /* Alinea el contenido a la derecha horizontalmente */
+.h3-general{
+    font-family: 'Open Sans', sans-serif;;
+    color: #2e787f;
+    margin-left: 20px;
+    font-size: 20px;
 }
 
-.botones-general li {
-    margin-right: 5px; /* Agrega un espacio entre los elementos (opcional) */
-    display: inline; /* Muestra los elementos de la lista en línea */
-}
-
-
-.redes-about{
-    text-decoration:none;
-    font-family: sans-serif;
-    text-align: right; /* Alinea el contenido a la derecha horizontalmente */
-}
-
-.redes-about li {
-    margin-right: 5px; /* Agrega un espacio entre los elementos (opcional) */
-    display: inline; /* Muestra los elementos de la lista en línea */
+.p-general{
+    font-family: 'Open Sans', sans-serif;
+    color: #2e787f;
+    margin-left: 20px;
 }

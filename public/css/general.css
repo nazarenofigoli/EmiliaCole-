@@ -1,0 +1,38 @@
+
+.h1-general{
+    font-family: 'Raleway', sans-serif;font-size: 55px;}
+a{
+    text-decoration:none;
+    font-family: sans-serif;
+    }
+
+ul {
+        list-style-type: none;
+    }
+
+    .redes-general{
+        font-family: sans-serif;
+        text-align: right; 
+    }
+    
+    .redes-general li{
+        margin-right: 5px; 
+        display: inline; 
+    }
+    
+    .botones-general{
+        margin-top: 50px;
+        font-family: sans-serif;
+        text-align: right; /* Alinea el contenido a la derecha horizontalmente */
+        background-color: rgba(255, 255, 255, 0.5);
+        padding: 5px;
+        margin-top: 30px;
+    }
+    
+    .botones-general li {
+        margin-right: 5px; /* Agrega un espacio entre los elementos (opcional) */
+        display: inline; /* Muestra los elementos de la lista en línea */
+
+    }
+    
+    

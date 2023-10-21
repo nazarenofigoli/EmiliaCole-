@@ -8,26 +8,22 @@
 }
 
 #twist{
-font-family: 'Raleway', sans-serif;font-size: 82px;
-background-color: rgba(255, 255, 255, 0.393);
+font-family: 'Raleway', sans-serif;font-size: 65px;
+background-color: rgba(255, 255, 255, 0.5);
 position: relative;
-top: 450px;
-}
-
-#titulo{
-font-family: 'Encode Sans', sans-serif;
-font-size: 40px;
-position: relative;
-left: 35px;
 top: 250px;
 }
 
-ul {
-    list-style-type: none;
+#titulo{
+font-family: 'Open Sans', sans-serif;
+font-size: 40px;
+position: relative;
+left: 35px;
+top: 125px;
 }
 
-.redes-sociales a{
-    float: left;
+.redes-sociales li{
+    display: inline;
     margin: 2px; 
 }
 
